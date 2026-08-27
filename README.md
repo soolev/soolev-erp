@@ -1,6 +1,6 @@
 ### Soolev ERP
 
-An open-source business management platform designed for companies in Africa, with a focus on extensibility, localization, and OHADA-compliant business processes.
+A business management platform for African businesses, designed for extensibility, localization, and OHADA-compliant business processes.
 
 ### Installation
 
