@@ -3,11 +3,12 @@ name: CI
 on:
   push:
     branches:
-      - version-16
+      - develop
+      - master
   pull_request:
 
 concurrency:
-  group: version-16-soolev_erp-${{ github.event.number }}
+  group: develop-soolev_erp-${{ github.event.number }}
   cancel-in-progress: true
 
 jobs:
